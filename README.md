@@ -1,9 +1,30 @@
 # SILK Project
-School of Indigenous Knowledge
+School for Indigenous and Local Knowledge
 
 > “We cannot conserve what we do not understand”
 
-## Audience
+> “In the end, we will conserve only what we love we will love only what we understand we will understand only what we are taught”
+> — Baba Dioum
+
+
+--- 
+## Site architecture
+
+### Five Questions
+
+- [Why](why.md)
+- [Who](who.md)
+- [How](how.md)
+- [What](what.md)
+- [Where](where.md)
+
+### Secondary
+- [Links](links.md)
+- [Get involved/What you can do](get-involved.md)
+
+--- 
+
+## Target Audience
 - policy makers
 - donors
 - researchers
@@ -11,9 +32,8 @@ School of Indigenous Knowledge
 - NGOs
 - Baka people
 
----
-
 ## Website Objectives
+
 ### Informational
 Inform people about the SILK project
 - define need for the project and background
@@ -22,6 +42,54 @@ Inform people about the SILK project
 - explore role of the Baka in managing forests
 - include Baka in forestry research and conservation
 
-### Respository
+### Repository
 - Baka traditional ecological knowledge
 - Education resources and lesson plans
+
+
+--- 
+
+## Design suggestion 
+1. Icons arranged in a honeycomb
+1. click on with photo on icon
+
+- Forest Foods / Food Security & traditional ecological knowledge
+- Medicinal plants / Health & traditional ecological knowledge
+- Plant-animal interactions / conservation & traditional ecological knowledge
+- Specialized Baka Vocab / Language & traditional ecological knowledge
+- Cultural Heritage / Music, dance, stories, cosmology / ICH
+
+--- 
+
+## Resources
+- Baka-Eng-French dictionary
+- Movies, music, stories
+- Lesson plans
+
+### Bibliographic traditional ecological knowledge resources
+- Forest foods
+  - mushrooms, 
+  - insects
+  - plants
+- Medicinal plants
+- Plant - Animal interactions – frugivory and seed dispersal
+- Animal life histories and behavior
+- Documentation methods
+- ethnobiology
+- TEK and IPR, Ethics
+
+--- 
+## Updates & Activities 
+- Field course for Baka Youth at Bouamir Research Station
+- Activities and events in village
+- Collaborative research on animal-dispersed tree Phenology, FFA
+
+
+--- 
+
+## Styleguide
+
+- [Colors](colour/index.html)
+- [Type](typography/index.html)
+- [Icons](icons/index.html)
+
