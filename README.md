@@ -10,6 +10,8 @@ School for Indigenous and Local Knowledge
 --- 
 ## Site architecture
 
+- [Home](index.md)
+
 ### Five Questions
 
 - [Why](why.md)
@@ -20,7 +22,7 @@ School for Indigenous and Local Knowledge
 
 ### Secondary
 - [Links](links.md)
-- [Get involved/What you can do](get-involved.md)
+- [Get involved](get-involved.md)
 
 --- 
 
