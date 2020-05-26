@@ -34,6 +34,8 @@ School for Indigenous and Local Knowledge
 - NGOs
 - Baka people
 
+---
+
 ## Project Objectives
 
 To achieve these goals, the three-pronged objectives of the program will be:
