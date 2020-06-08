@@ -1,8 +1,26 @@
+## Navigation 
+- [Home](index.md)
+
+### Five Questions
+
+- [Why](why.md)
+- [Who](who.md)
+- [How](how.md)
+- [What](what.md)
+- [Where](where.md)
+
+### Secondary
+- [Links](links.md)
+- [Get Involved](get-involved.md)
+
+---
+
 # Who? 
+
 ## Baka
 - Who are the Baka, their history
 
-## pilot village Bifolone
+## Pilot village Bifolone
 - some faces, history with TBS
 - RB, Ernest, Marlene 
 - TBS, VZ + link to CBI website

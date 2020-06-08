@@ -1,4 +1,23 @@
+## Navigation 
+- [Home](index.md)
+
+### Five Questions
+
+- [Why](why.md)
+- [Who](who.md)
+- [How](how.md)
+- [What](what.md)
+- [Where](where.md)
+
+### Secondary
+- [Links](links.md)
+- [Get Involved](get-involved.md)
+
+---
+
 # Links
+
+## External Sites
 - To other projects in and around the Dja
 - Darwin Initiative, Tropical forest and Rural Development 
 - Other projects involving the Baka/education

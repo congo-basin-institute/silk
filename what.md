@@ -1,3 +1,20 @@
+## Navigation 
+- [Home](index.md)
+
+### Five Questions
+
+- [Why](why.md)
+- [Who](who.md)
+- [How](how.md)
+- [What](what.md)
+- [Where](where.md)
+
+### Secondary
+- [Links](links.md)
+- [Get Involved](get-involved.md)
+
+---
+
 # What?
 - What are our objectives 
 - What is traditional ecological knowledge

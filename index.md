@@ -1,10 +1,5 @@
-*cbi logo*
-# School for Indigenous & Local Knowledge
-*photo*
-
-> “We cannot conserve what we do not understand”
-
-## Main Navigation & Site architecture
+## Navigation 
+- [Home](index.md)
 
 ### Five Questions
 
@@ -18,6 +13,13 @@
 - [Links](links.md)
 - [Get Involved](get-involved.md)
 
+---
+
+*cbi logo*
+# School for Indigenous & Local Knowledge
+*photo*
+
+> “We cannot conserve what we do not understand”
 
 ## The Challenge
 

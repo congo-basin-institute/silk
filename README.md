@@ -1,3 +1,5 @@
+
+
 # SILK Project
 School for Indigenous and Local Knowledge
 
@@ -6,8 +8,16 @@ School for Indigenous and Local Knowledge
 > “In the end, we will conserve only what we love we will love only what we understand we will understand only what we are taught”
 > — Baba Dioum
 
+## Target Audience
+- policy makers
+- donors
+- researchers
+- students
+- NGOs
+- Baka people
 
---- 
+---
+
 ## Site architecture
 
 - [Home](index.md)
@@ -22,19 +32,9 @@ School for Indigenous and Local Knowledge
 
 ### Secondary
 - [Links](links.md)
-- [Get involved](get-involved.md)
+- [Get Involved](get-involved.md)
 
 --- 
-
-## Target Audience
-- policy makers
-- donors
-- researchers
-- students
-- NGOs
-- Baka people
-
----
 
 ## Project Objectives
 
