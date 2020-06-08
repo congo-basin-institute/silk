@@ -104,6 +104,13 @@ Inform people about the SILK project
 - Activities and events in village
 - Collaborative research on animal-dispersed tree Phenology, FFA
 
+---
+
+## Maps
+- [Bouamir Rivers GeoJSON](data/bouamir_rivers.geojson)
+- [Bouamir Roads GeoJSON](data/bouamir_roads.geojson)
+- [Land Cover GeoJSON](data/land_cover.geojson)
+- [Plots 1994 GeoJSON](data/plots_1994.geojson)
 
 --- 
 
