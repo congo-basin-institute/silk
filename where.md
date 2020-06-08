@@ -19,10 +19,10 @@
 
 ## Maps
 
-- [Bouamir Rivers GeoJSON](data/bouamir_rivers.geojson)
-- [Bouamir Roads GeoJSON](data/bouamir_roads.geojson)
-- [Land Cover GeoJSON](data/land_cover.geojson)
-- [Plots 1994 GeoJSON](data/plots_1994.geojson)
+- [Bouamir Rivers GeoJSON](https://github.com/congo-basin-institute/silk/blob/gh-pages/data/bouamir_rivers.geojson)
+- [Bouamir Roads GeoJSON](https://github.com/congo-basin-institute/silk/blob/gh-pages/data/bouamir_roads.geojson)
+- [Land Cover GeoJSON](https://github.com/congo-basin-institute/silk/blob/gh-pages/data/land_cover.geojson)
+- [Plots 1994 GeoJSON](https://github.com/congo-basin-institute/silk/blob/gh-pages/data/plots_1994.geojson)
 
 ## TBD
 
